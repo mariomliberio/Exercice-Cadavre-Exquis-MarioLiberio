@@ -1,3 +1,7 @@
+Bonjour
+Coder c'est bon et
+c'est la vie
+
 ﻿# Exercice Cadavre Exquis
 ### Mario Liberio
 

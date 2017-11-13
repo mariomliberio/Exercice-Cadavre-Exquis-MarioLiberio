@@ -30,4 +30,10 @@ Comme en témoignaient les bouteilles vides de Stork posées devant lui, elles �
 =======
 
 
+Il alla boire un verre de plus pour découvrir une bierre inconnue.
+
+la bière avait pour nom *'Ginette'*
+
+Il l'a délecta avec douceur.
+
 

@@ -79,6 +79,7 @@ There once was an andoid named _2B_
 
 She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
+<<<<<<< HEAD
 >>>>>>> 706b6e6fe474ecfa7fbeb61a716900da9405ab40
 
 ## In every job that must be done
@@ -91,6 +92,13 @@ Glas de décembre ;
 Trépas de novembre ;
 Je m'en carre diantre ;
 Je serai dans ma chambre;
+<<<<<<< Updated upstream
 
 The young hobbit was the savior of the realm, he had chosen for his Quest to travel with a fellow Elfite, a Human king and a powerfull Sarazin. Together, the planned to put an end to the tyrany of Teddy the conquistador and Eric the Slayer. The journey would be long, but starting from the bottom, ** THE INfINYTEAM ** was here!!!
 
+=======
+=======
+
+The young hobbit was the savior of the realm, he had chosen for his Quest to travel with a fellow Elfite, a Human king and a powerfull Sarazin. Together, the planned to put an end to the tyrany of Teddy the conquistador and Eric the Slayer. The journey would be long, but starting from the bottom, ** THE INfINYTEAM ** was here!!!
+>>>>>>> Add-Prince
+>>>>>>> Stashed changes

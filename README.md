@@ -1,4 +1,4 @@
-# Exercice Cadavre Exquis
+﻿# Exercice Cadavre Exquis
 ### Mario Liberio
 
 ===================================================================================
@@ -35,9 +35,14 @@ la bière avait pour nom *'Ginette'*
 Il l'a délecta avec douceur.
 
 
+<<<<<<< HEAD
 ##I'm not going to write.## 
 *In your stupid repo.* 
 _Really not,i'm not a sheep_ 
+=======
+##I'm not going to write.##
+*In your stupid repo.*
+_Really not,i'm not a sheep_
 
 
 We love [GitHub](https://github.com) so much :heart:
@@ -45,20 +50,44 @@ We love [GitHub](https://github.com) so much :heart:
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
- 
 
+
+
+=======
 ### coucou
 ### petite
 ### perruche
 
 
 
-Mais un jour Maurice est parti manger un bon sandwich avec ses amis crevettes. 
-Le problème c'est qu'il n'avait pas d'argent pour payer. 
-Du coup ses amis ont .... 
+Mais un jour Maurice est parti manger un bon sandwich avec ses amis crevettes.
+Le problème c'est qu'il n'avait pas d'argent pour payer.
+Du coup ses amis ont ....
+
+>>>>>>> 706b6e6fe474ecfa7fbeb61a716900da9405ab40
 
 
+#please read me
+Best exercise ever!
+LOL
 
-#please read me 
-Best exercise ever! 
-LOL 
+<<<<<<< HEAD
+
+ 
+=======
+There once was an andoid named _2B_
+
+She was part of the *YoRHa* group
+> This group was created for mankind's salavation after being invaded from space
+>>>>>>> 706b6e6fe474ecfa7fbeb61a716900da9405ab40
+
+## In every job that must be done
+## There is an element of fun
+## You find the fun and snap!
+## **The job's a game**
+
+
+Glas de décembre ;
+Trépas de novembre ;
+Je m'en carre diantre ;
+Je serai dans ma chambre;

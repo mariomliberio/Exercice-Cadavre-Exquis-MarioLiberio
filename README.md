@@ -110,3 +110,6 @@ The young hobbit was the savior of the realm, he had chosen for his Quest to tra
 
 Get up stand up
 stand up for your right
+
+git pull a day keeps the conflict's away
+

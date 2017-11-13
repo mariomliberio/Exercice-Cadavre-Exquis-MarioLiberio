@@ -113,3 +113,4 @@ stand up for your right
 
 git pull a day keeps the conflict's away
 
+“You’re much stronger than you think you are. Trust me.” – Spiderman

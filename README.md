@@ -1,4 +1,4 @@
-# Exercice Cadavre Exquis
+﻿# Exercice Cadavre Exquis
 ### Mario Liberio
 
 ===================================================================================
@@ -85,3 +85,9 @@ She was part of the *YoRHa* group
 ## There is an element of fun
 ## You find the fun and snap!
 ## **The job's a game**
+
+
+Glas de décembre ;
+Trépas de novembre ;
+Je m'en carre diantre ;
+Je serai dans ma chambre;

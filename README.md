@@ -1,7 +1,7 @@
 Bonjour
 Coder c'est bon et
 c'est la vie
-
+Hihihi surtout quand tu réussis
 ﻿# Exercice Cadavre Exquis
 ### Mario Liberio
 

@@ -69,3 +69,5 @@ There once was an andoid named _2B_
 
 She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
+
+The young hobbit was the savior of the realm, he had chosen for his Quest to travel with a fellow Elfite, a Human king and a powerfull Sarazin. Together, the planned to put an end to the tyrany of Teddy the conquistador and Eric the Slayer. The journey would be long, but starting from the bottom, ** THE INfINYTEAM ** was here!!!

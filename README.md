@@ -49,3 +49,15 @@ It will be so *fun* when everybody will use it and we should manage `100` confli
 Master and branches power
  
 
+
+
+Mais un jour Maurice est parti manger un bon sandwich avec ses amis crevettes. 
+Le problème c'est qu'il n'avait pas d'argent pour payer. 
+Du coup ses amis ont .... 
+
+
+
+#please read me 
+Best exercise ever! 
+LOL 
+

@@ -35,9 +35,9 @@ la bière avait pour nom *'Ginette'*
 Il l'a délecta avec douceur.
 
 
-##I'm not going to write.## 
-*In your stupid repo.* 
-_Really not,i'm not a sheep_ 
+##I'm not going to write.##
+*In your stupid repo.*
+_Really not,i'm not a sheep_
 
 
 We love [GitHub](https://github.com) so much :heart:
@@ -45,7 +45,7 @@ We love [GitHub](https://github.com) so much :heart:
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
- 
+
 
 
 =======
@@ -55,13 +55,22 @@ Master and branches power
 
 
 
-Mais un jour Maurice est parti manger un bon sandwich avec ses amis crevettes. 
-Le problème c'est qu'il n'avait pas d'argent pour payer. 
-Du coup ses amis ont .... 
+Mais un jour Maurice est parti manger un bon sandwich avec ses amis crevettes.
+Le problème c'est qu'il n'avait pas d'argent pour payer.
+Du coup ses amis ont ....
 
 
 
-#please read me 
-Best exercise ever! 
-LOL 
+#please read me
+Best exercise ever!
+LOL
 
+There once was an andoid named _2B_
+
+She was part of the *YoRHa* group
+> This group was created for mankind's salavation after being invaded from space
+
+## In every job that must be done
+## There is an element of fun
+## You find the fun and snap!
+## **The job's a game**
